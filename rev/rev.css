@@ -23,3 +23,7 @@ button:hover{
     display: inline;
     list-style: none;
 }
+
+.finline{
+	display:block;
+}
