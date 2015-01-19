@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Roboto-Light";
+    src: url(Roboto-Light.ttf);
+    
+}
+button{
+    background-color: #ee203e;
+    border: none;
+    color: white;
+    font-family: "Roboto-Light",sans-serif;
+    font-size: 15px;
+    height: 29px;
+    width: 120px;
+    letter-spacing: 0.3px;
+    border-radius: 3px; 
+}
+
+button:hover{
+    background-color: #de1e32;
+}
+
+.inline{
+    display: inline;
+    list-style: none;
+}
